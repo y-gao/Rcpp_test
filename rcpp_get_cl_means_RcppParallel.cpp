@@ -1,4 +1,4 @@
-//rcpp_get_cl_means.cpp
+//rcpp_get_cl_means_RcppParallel.cpp
 
 // [[Rcpp::depends(beachmat)]]
 // [[Rcpp::depends(RcppParallel)]]
