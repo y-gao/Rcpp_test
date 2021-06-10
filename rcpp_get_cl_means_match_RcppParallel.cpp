@@ -1,5 +1,5 @@
 //rcpp_get_cl_means_match_RcppParallel
-
+// cl is assumed not to match the data matrix
 // [[Rcpp::depends(beachmat)]]
 // [[Rcpp::depends(RcppParallel)]]
 
