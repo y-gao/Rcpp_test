@@ -1,5 +1,5 @@
 //rcpp_get_cl_means_OpenMP
-
+//cl is matched to the data matrix
 // [[Rcpp::depends(beachmat)]]
 
 #include <Rcpp.h>
